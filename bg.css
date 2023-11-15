@@ -1,0 +1,12 @@
+#p1{
+    background-color: antiquewhite;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top right;
+    background: linear-gradient(red,blue);
+}
+*{
+   background-image: url(PRAVIN.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
